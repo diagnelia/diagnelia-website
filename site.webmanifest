@@ -1,0 +1,14 @@
+{
+  "name": "Diagnelia",
+  "short_name": "Diagnelia",
+  "description": "AI guide for people still searching for a diagnosis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf8f8",
+  "theme_color": "#d6336c",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
